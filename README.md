@@ -17,6 +17,7 @@ This project is a prototype, inspired by and using the basic UI structure from [
 *   HTML
 *   CSS (via Tailwind CSS CDN)
 *   JavaScript
+*   Prompt and Cursor
 *   Free Dictionary API (`https://api.dictionaryapi.dev/api/v2/`)
 
 ## How to Run
